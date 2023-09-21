@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">👩‍💻 Who I am is coming out, stay tuned!</h3>
 
 ###
 
