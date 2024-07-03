@@ -55,7 +55,7 @@ A full-stack developer from Thailand, currently working as a freelancer
 <h2 align="left"> Contacts </h2>
 
 <div align="left">
-  <a href="[Real](https://youtu.be/2qBlE2-WL60)" target="_blank">
+  <a href="https://youtu.be/2qBlE2-WL60" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
