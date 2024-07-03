@@ -8,7 +8,11 @@
 </div>
 
 ###
-<h3 align="center">Hi traveler! What brings you here? 😎👊</h3>
+<div align="center">
+  <a href="https://youtu.be/2qBlE2-WL60"><img src="https://github.com/Chewji9875/Chewji9875/assets/126886556/9998d614-d5ae-4d26-a8a2-fe294893aebc"/>
+  </a>
+</div>
+
 
 
 ###
