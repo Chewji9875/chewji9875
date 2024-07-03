@@ -8,64 +8,48 @@
 </div>
 
 ###
-<h3 align="center">Yo, what's good! What's bringing you here? 😎👊</h3>
+<h3 align="center">Hi traveler! What brings you here? 😎👊</h3>
+
 
 ###
 <h2></h2>
+
+***"Chew! Chew!, that's what they call me"***
+
+A full-stack developer from Thailand, currently working as a freelancer
 <details>
     <summary>📜 Click here! Discover more about me!</summary>
 
 ###
-<h2></h2>
-<h3 align="left">👩‍💻 Who I am is coming out, stay tuned!</h3>
 
-***"Chew! Chew!, that's what they call me"***
+<h2> My skills  </h2>
 
-<h2></h2>
+### Web technologies 🧑‍💻
+- JavaScript
+- TypeScript
+- React
+- Vue
+- HTML, CSS, Tailwind
+- PHP
+- Laravel
+- SQL
 
-###
-<h3 align="left">💻 Languages</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-</div>
-<h2></h2>
+### Tools ⚙️
+- JetBrains
+- Docker
+- Github
 
-###
-<h3 align="left">🔧 Frameworks</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-</div>
-<h2></h2>
+### Languages 🌎
 
-###
-<h3 align="left">🛠️ Tooling</h3>
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-</div>
-<h2></h2>
+| Language | Proficiency |
+| -------- | ----------- |
+| English  | B1          |
+| Thai     | Native      |
 
-###
-<h3 align="left">📞 Contact</h3>
+
+
+<h2 align="left"> Contacts </h2>
+
 <div align="left">
   <a href="[Real](https://youtu.be/2qBlE2-WL60)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -73,6 +57,6 @@
 </div>
 
 </details>
-
 <h2></h2>
+
 
