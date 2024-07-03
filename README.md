@@ -13,14 +13,14 @@
 ###
 <h2></h2>
 <details>
-    <h2></h2>
-    <summary>
-      <h2>Click here! Discover more about me!</h2>
-    </summary>
+    <summary>📜 Click here! Discover more about me!</summary>
 
 ###
+<h2></h2>
 <h3 align="left">👩‍💻 Who I am is coming out, stay tuned!</h3>
-<h3 align="left">=> "Chew! Chew!, that's what they call me"</h3>
+
+***"Chew! Chew!, that's what they call me"***
+
 <h2></h2>
 
 ###
