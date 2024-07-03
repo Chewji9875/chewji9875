@@ -8,30 +8,23 @@
 </div>
 
 ###
-
 <h3 align="center">Yo, what's good! What's bringing you here? 😎👊</h3>
 
-
-
+###
+<h2></h2>
 <details>
+    <h2></h2>
     <summary>
       <h2>Click here! Discover more about me!</h2>
     </summary>
-  
+
+###
 <h3 align="left">👩‍💻 Who I am is coming out, stay tuned!</h3>
- <p align="left">"Chew! Chew!, that's what they call me"</p>
-
-
-
-
+<h3 align="left">=> "Chew! Chew!, that's what they call me"</h3>
 <h2></h2>
 
 ###
-
 <h3 align="left">💻 Languages</h3>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -46,11 +39,7 @@
 <h2></h2>
 
 ###
-
 <h3 align="left">🔧 Frameworks</h3>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
   <img width="12" />
@@ -61,11 +50,7 @@
 <h2></h2>
 
 ###
-
 <h3 align="left">🛠️ Tooling</h3>
-
-###
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
   <img width="12" />
@@ -80,15 +65,14 @@
 <h2></h2>
 
 ###
-
 <h3 align="left">📞 Contact</h3>
 <div align="left">
-  <a href="#" target="_blank">
+  <a href="[Real](https://youtu.be/2qBlE2-WL60)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
-###
 </details>
 
+<h2></h2>
 
