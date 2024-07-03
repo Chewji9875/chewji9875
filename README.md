@@ -38,10 +38,15 @@ A full-stack developer from Thailand, currently working as a freelancer
 - Laravel
 - SQL
 
+### Designs 🎨
+- Figma
+- Visio
+
 ### Tools ⚙️
 - JetBrains
 - Docker
 - Github
+
 
 ### Languages 🌎
 
@@ -50,7 +55,10 @@ A full-stack developer from Thailand, currently working as a freelancer
 | English  | B1          |
 | Thai     | Native      |
 
+<h2 align="left"> My Projects </h2>
 
+### About mobile phone 🌟
+Will update it soon
 
 <h2 align="left"> Contacts </h2>
 
