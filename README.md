@@ -57,7 +57,6 @@ A full-stack developer from Thailand, currently working as a freelancer
 
 <h2 align="left"> My Projects </h2>
 
-### About mobile phone 🌟
 Will update it soon
 
 <h2 align="left"> Contacts </h2>
