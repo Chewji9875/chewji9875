@@ -9,20 +9,26 @@
 
 ###
 
-<h2 align="center">Yo, what's good! What's bringing you here? 😎👊</h2>
+<h3 align="center">Yo, what's good! What's bringing you here? 😎👊</h3>
 
-###
 
+
+<details>
+    <summary>
+      <h2>Click here! Discover more about me!</h2>
+    </summary>
+  
 <h3 align="left">👩‍💻 Who I am is coming out, stay tuned!</h3>
+ <p align="left">"Chew! Chew!, that's what they call me"</p>
 
-###
 
-<p align="left">"Chew! Chew!, that's what they call me"</p>
+
+
 <h2></h2>
 
 ###
 
-<h3 align="left">🛠 Languages</h3>
+<h3 align="left">💻 Languages</h3>
 
 ###
 
@@ -41,7 +47,7 @@
 
 ###
 
-<h3 align="left">🛠 Frameworks</h3>
+<h3 align="left">🔧 Frameworks</h3>
 
 ###
 
@@ -56,7 +62,7 @@
 
 ###
 
-<h3 align="left">🛠 Tooling</h3>
+<h3 align="left">🛠️ Tooling</h3>
 
 ###
 
@@ -75,10 +81,14 @@
 
 ###
 
-<div align="center">
+<h3 align="left">📞 Contact</h3>
+<div align="left">
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 ###
+</details>
+
+
