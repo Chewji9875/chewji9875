@@ -4,7 +4,7 @@
 
 ###
 <div align="center">
-  <img height="320" src="https://github.com/Chewji9875/Chewji9875/assets/126886556/aa3b3432-1ed1-46ce-8f4f-fe6dc4ed8fd2"  />
+  <img height="240" src="https://github.com/Chewji9875/Chewji9875/assets/126886556/aa3b3432-1ed1-46ce-8f4f-fe6dc4ed8fd2"  />
 </div>
 
 ###
