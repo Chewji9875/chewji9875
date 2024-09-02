@@ -34,7 +34,6 @@ A full-stack developer from Thailand, currently working as a freelancer
 
 ### Web technologies 🧑‍💻
 - JavaScript
-- TypeScript
 - React
 - Vue
 - HTML, CSS, Tailwind
@@ -47,7 +46,7 @@ A full-stack developer from Thailand, currently working as a freelancer
 - Visio
 
 ### Tools ⚙️
-- JetBrains
+- JetBrains products
 - Docker
 - Github
 
@@ -61,7 +60,7 @@ A full-stack developer from Thailand, currently working as a freelancer
 
 <h2 align="left"> My Projects </h2>
 
-Will update it soon
+I will update it soon
 
 <h2 align="left"> Contacts </h2>
 
